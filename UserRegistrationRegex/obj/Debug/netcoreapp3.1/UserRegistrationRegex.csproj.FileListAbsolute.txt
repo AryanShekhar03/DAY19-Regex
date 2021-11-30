@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\bin\Debug\netcoreapp3.1\UserRegistrationRegex.exe
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\bin\Debug\netcoreapp3.1\UserRegistrationRegex.deps.json
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\bin\Debug\netcoreapp3.1\UserRegistrationRegex.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\bin\Debug\netcoreapp3.1\UserRegistrationRegex.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\bin\Debug\netcoreapp3.1\UserRegistrationRegex.dll
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\bin\Debug\netcoreapp3.1\UserRegistrationRegex.pdb
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.dll
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.pdb
+C:\Users\Shivam Shekhar\source\DAY19Regex\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.genruntimeconfig.cache
