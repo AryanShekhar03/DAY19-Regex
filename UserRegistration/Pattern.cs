@@ -1,10 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace UserRegistration
 {
-    class Pattern
+    public class Pattern
     {
+        public static void MobileNumber(string name)
+        {
+            string MobileNumber = "(0|91)?[ ][6-9][0-9]{9}";
+            Regex regex = new Regex(MobileNumber);
+            if (regex.IsMatch(name))
+            {
+                Console.WriteLine(name + " is valid number");
+            }
+            else
+            {
+                Console.WriteLine(name + " is invalid.");
+            }
+
+        }
     }
 }
